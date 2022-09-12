@@ -1,0 +1,40 @@
+.container {
+    background-color: honeydew;
+    width: 100%;
+    max-width: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.card {
+    text-align: center;
+
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.result {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.running-input {
+    width: 200px;
+    height: 30px;
+}
+
+.form-box {
+    margin-top: 20px;
+}
+
+
+.btn-js {
+    width: 60px;
+    height: 20px;
+    margin-top: 20px;
+}
